@@ -64,6 +64,7 @@ $log_file[]="";
 
 # server list
 //$server[] = array("hostname"=>"","desc"=>"","type"=>"");
+$server[] = array("hostname"=>"28000@10.34.167.85","desc"=>"flexlm stuff","type"=>"flexlm","cacti"=>"0000");
 
 # monitor list
 $monitor_license[] = array("feature"=>"nuke_r","description"=>"Nuke Render");
